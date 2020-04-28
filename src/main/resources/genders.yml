@@ -1,0 +1,24 @@
+gender:
+  title: '&a性别选择'
+  boy:
+    ID: 'BLAZE_ROD'
+    data: 0
+    name: '&f[ &b&lBoy &f]'
+    lore:
+      - '&0'
+      - '&6&k|&r &f选择成为一名 &e男孩'
+      - '&6&k|&r &c选择后无法再次更换,谨慎!'
+      - '&0'
+  girl:
+    ID: 'VINE'
+    data: 0
+    name: '&f[ &d&lGirl &f]'
+    lore:
+      - '&0'
+      - '&6&k|&r &f选择成为一名 &e女孩'
+      - '&6&k|&r &c选择后无法再次更换,谨慎!'
+      - '&0'
+  flag:
+    ID: 'STAINED_GLASS_PANE'
+    data: 0
+    name: '&0 '

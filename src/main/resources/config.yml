@@ -1,0 +1,33 @@
+##NMSL##
+##author meteor##
+##qq1627067320##
+mysql:
+  url: 'jdbc:mysql://localhost:3306/test'
+  user: 'root'
+  password: 'admin'
+Setting:
+  ##同性能否进行结缘
+  gender_eq: true
+  ##是否需要牛子锁和钥匙才能进行结缘
+  item_req: true
+  ##是否初次进服强制要求选择性别
+  gender_select: false
+item:
+  lock:
+    ID: 'END_CRYSTAL'
+    data: 0
+    name: '&d缘之锁'
+    lore:
+      - '&0 '
+      - '&6&k|&r &c结缘的必要道具&r &6&k|&r'
+      - '&f双方需拥有不同的结缘道具才可结缘'
+      - '&0 '
+  key:
+    ID: 'TRIPWIRE_HOOK'
+    data: 0
+    name: '&d缘之匙'
+    lore:
+      - '&0 '
+      - '&6&k|&r &c结缘的必要道具&r &6&k|&r'
+      - '&f双方需拥有不同的结缘道具才可结缘'
+      - '&0 '

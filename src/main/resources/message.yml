@@ -1,0 +1,38 @@
+prefix: '&f[ &6丰收物语 &f]'
+jieyuan_sur:
+  message:
+    - '&0 '
+    - '&6&k| &a与 &3@player@ &a结缘成功'
+    - '&6&k| &a现在,你可以使用tp等一系列功能了'
+    - '&0 '
+  title:
+    title: '@player@ 与 @player1@'
+    subtitle: '&d结缘成功'
+jieyuan_er:
+  message:
+    - '&0 '
+    - '&6&k| &3@player@ &a拒绝了你的结缘申请'
+    - '&6&k| &a不要气馁，你可以再试试'
+    - '&0 '
+  title:
+    title: '已拒绝@player@'
+    subtitle: '的结缘申请'
+item_req:
+  message:
+    - '&0 '
+    - '&6&k| &c&l结缘失败！'
+    - '&6&k| &f双方需拥有不同的结缘道具'
+    - '&0 '
+  title:
+    title: '&c结缘失败'
+    subtitle: '双方需拥有不同的结缘道具！'
+no_money:
+  message:
+    - '&0 '
+    - '&6&k| &c&l结缘失败！'
+    - '&6&k| &f没有足够的金币/点卷'
+    - '&0 '
+  title:
+    title: '对方缺少足够的'
+    subtitle: '金币or点卷'
+gender_eq: '@prefix@ &f同性无法进行结缘'

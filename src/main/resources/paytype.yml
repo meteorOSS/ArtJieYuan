@@ -1,0 +1,24 @@
+type:
+  title: '&a请选择支付方式'
+  flag:
+    ID: 'STAINED_GLASS_PANE'
+    data: 0
+    name: '&0 '
+  money:
+    ID: 'GOLD_NUGGET'
+    data: 0
+    name: '&f[ &a&lMoney &f]'
+    lore:
+      - '&0'
+      - '&6&k|&r &f使用 &e金币 &f进行付款'
+      - '&6&k|&r &f消耗 &c@money@ &f金币'
+      - '&0'
+  points:
+    ID: 'NETHER_STAR'
+    data: 0
+    name: '&f[ &5&lPoints &f]'
+    lore:
+      - '&0'
+      - '&6&k|&r &f使用 &e点卷 &f进行付款'
+      - '&6&k|&r &f消耗 &c@points@ &f点卷'
+      - '&0'

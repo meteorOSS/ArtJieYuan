@@ -1,0 +1,4 @@
+name: ArtJieYuan
+version: ${project.version}
+main: com.meteor.artjieyuan.Main
+authors: [meteor]

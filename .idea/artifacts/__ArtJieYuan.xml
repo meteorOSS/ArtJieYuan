@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="[结缘]ArtJieYuan">
+    <output-path>G:/TestSP/plugins</output-path>
+    <root id="archive" name="[结缘]ArtJieYuan.jar">
+      <element id="module-output" name="ArtJieYuan" />
+    </root>
+  </artifact>
+</component>
